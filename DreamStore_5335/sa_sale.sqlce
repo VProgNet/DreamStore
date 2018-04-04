@@ -1,0 +1,11 @@
+-- Script Date: 19.03.2018 23:31  - ErikEJ.SqlCeScripting version 3.5.2.56
+CREATE TABLE [sa_sale] (
+  [sa_id_5335] int IDENTITY (1,1) NOT NULL
+, [sa_client_5335] nvarchar(100) NOT NULL
+, [sa_date_5335] datetime NOT NULL
+, [sa_amount_5335] numeric(20,5) NOT NULL
+, [sa_total_5335] numeric(20,5) NOT NULL
+);
+GO
+ALTER TABLE [sa_sale] ADD CONSTRAINT [PK_sa_sale] PRIMARY KEY ([sa_id_5335]);
+GO

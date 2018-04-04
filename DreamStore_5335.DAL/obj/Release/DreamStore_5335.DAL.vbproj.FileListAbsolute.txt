@@ -1,0 +1,10 @@
+C:\Users\homework\Desktop\DreamStore_5335\DreamStore_5335.DAL\bin\Release\DreamStore_5335.DAL.dll.config
+C:\Users\homework\Desktop\DreamStore_5335\DreamStore_5335.DAL\bin\Release\DreamStore_5335.DAL.dll
+C:\Users\homework\Desktop\DreamStore_5335\DreamStore_5335.DAL\bin\Release\DreamStore_5335.DAL.pdb
+C:\Users\homework\Desktop\DreamStore_5335\DreamStore_5335.DAL\bin\Release\DreamStore_5335.DAL.xml
+C:\Users\homework\Desktop\DreamStore_5335\DreamStore_5335.DAL\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\homework\Desktop\DreamStore_5335\DreamStore_5335.DAL\obj\Release\DreamStore_5335.DAL.Resources.resources
+C:\Users\homework\Desktop\DreamStore_5335\DreamStore_5335.DAL\obj\Release\DreamStore_5335.DAL.vbproj.GenerateResource.Cache
+C:\Users\homework\Desktop\DreamStore_5335\DreamStore_5335.DAL\obj\Release\DreamStore_5335.DAL.dll
+C:\Users\homework\Desktop\DreamStore_5335\DreamStore_5335.DAL\obj\Release\DreamStore_5335.DAL.xml
+C:\Users\homework\Desktop\DreamStore_5335\DreamStore_5335.DAL\obj\Release\DreamStore_5335.DAL.pdb

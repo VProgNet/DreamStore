@@ -1,0 +1,12 @@
+-- Script Date: 19.03.2018 22:56  - ErikEJ.SqlCeScripting version 3.5.2.56
+CREATE TABLE [co_consignment] (
+  [co_id_5335] int IDENTITY (1,1) NOT NULL
+, [co_vendor_5335] nvarchar(100) NULL
+, [co_exp_date_5335] datetime NULL
+, [co_price_5335] int NULL
+, [co_amount_5335] int NULL
+, [co_remaining_5335] int NULL
+);
+GO
+ALTER TABLE [co_consignment] ADD CONSTRAINT [PK_co_consignment] PRIMARY KEY ([co_id_5335]);
+GO

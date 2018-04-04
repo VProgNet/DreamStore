@@ -1,0 +1,4 @@
+﻿INSERT INTO co_consignment (co_vendor_5335, co_exp_date_5335, 
+							co_price_5335, co_amount_5335,
+							co_remaining_5335) 
+			VALUES ("TestVendor", "1998-08-08", 5, 10, 10);
